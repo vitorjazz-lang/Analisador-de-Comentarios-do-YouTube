@@ -21,14 +21,6 @@ O projeto utiliza um modelo pré-treinado baseado na arquitetura **BERT multilí
 
 ---
 
-## 📸 Demonstração
-
-> *(Dica: Tire um print da janela do seu programa rodando, salve como `preview.png` dentro da pasta `assets/` e a imagem aparecerá aqui automaticamente!)*
-
-![Interface do Analisador de Comentários](assets/preview.png)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python 3.x**
