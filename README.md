@@ -48,7 +48,7 @@ Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/vitorjazz-lang/Analisador-de-Coment-rios-do-YouTube.git
    cd NOME-DO-REPOSITORIO
    ```
 
