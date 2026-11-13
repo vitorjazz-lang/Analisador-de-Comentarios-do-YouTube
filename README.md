@@ -71,7 +71,3 @@ Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
 Contribuições são sempre bem-vindas! Se você tiver sugestões de melhorias (como suporte a multithreading na interface ou novos gráficos de análise), sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
 ---
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **licença MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
