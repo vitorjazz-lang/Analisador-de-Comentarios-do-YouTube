@@ -1,0 +1,16 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos gerados pelo programa
+*.xlsx
+
+# IDEs e Editores
+.vscode/
+.idea/
